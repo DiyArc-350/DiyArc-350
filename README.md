@@ -1,11 +1,13 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FFCC&text=Welcome!&fontAlign=49&fontAlignY=35&fontSize=40&fontColor=ffff&animation=twinkling&height=200&section=header) 
+<h1 align="center">Hi, I'm Didi</h1>
+<br>
+Undergraduate of Telecommunication Engineering at Telkom University
 
 ## Tech Stacks
-<a href="https://skillicons.dev/icons?i=js,html,css,python,laravel,codeigniter,php,mysql,c,bootstrap,figma" target="_blank" color="" >WordPress Homepage</a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,php,mysql,c,bootstrap,figma)](https://skillicons.dev)
 <!--
 **DiyArc-350/DiyArc-350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+z
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
