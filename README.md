@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FFCC&text=Welcome!&fontAlign=49&fontAlignY=35&fontSize=40&fontColor=ffff&animation=twinkling&height=200&section=header) 
-<h1 align="center">Hi, I'm Didi</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FFCC&text=Hi%2C%20I%27m%20Dhiya!&fontAlign=49&fontAlignY=35&fontSize=40&fontColor=ffff&animation=twinkling&height=200&section=header) 
+
 <br>
+
 Undergraduate of Telecommunication Engineering at Telkom University
 
 ## Tech Stacks
