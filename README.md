@@ -5,7 +5,7 @@
 Undergraduate of Telecommunication Engineering at Telkom University
 
 ## Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,php,mysql,c,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,php,mysql,c)](https://skillicons.dev)
 <!--
 **DiyArc-350/DiyArc-350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 z
